@@ -41,6 +41,17 @@
 *.VC.db
 *.VC.opendb
 
+# Files built by Visual Studio
+*.rsp
+
+##### VisualStudioCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
