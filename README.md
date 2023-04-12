@@ -18,8 +18,9 @@
 
 
 ## Technologies Used
-- Tech 1 - Unreal Engine 5
-- Tech 2 - C++
+- Unreal Engine 5
+- C++
+- Blueprint
 
 
 ## Screenshots
